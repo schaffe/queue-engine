@@ -11,6 +11,7 @@ buildscript {
 }
 
 apply plugin: 'idea'
+apply plugin: 'application'
 apply plugin: 'org.springframework.boot'
 
 group = 'com.pdffiller.supervisor'
