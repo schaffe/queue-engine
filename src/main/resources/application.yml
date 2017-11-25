@@ -1,0 +1,7 @@
+spring:
+  jackson:
+    serialization:
+      INDENT_OUTPUT: true #TODO debug. remove in prod
+
+server:
+    port: 3030
